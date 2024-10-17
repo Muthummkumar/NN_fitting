@@ -7,15 +7,15 @@ fitting.py (To run a training )
 
 run.sh (bash script to run the training and log all console outputs into a log file)
 
-###Under_fitting
+##Under_fitting
 
 ![uf](https://github.com/user-attachments/assets/f9343ccc-1ea2-4ca2-b4e0-662d1bc3b799)
 
-###Optimal Fitting
+##Optimal Fitting
 
 ![of](https://github.com/user-attachments/assets/4111f582-ae45-4f57-ba59-52bfed843e13)
 
-###Over_Fitting
+##Over_Fitting
 
 ![ovf](https://github.com/user-attachments/assets/467595b4-3125-44cd-a05a-82f417fd5cf7)
 
